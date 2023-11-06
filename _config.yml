@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username: MateoPesa
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0plugins:
+remote_theme: pages-themes/minimal@v0.2.0
   - jekyll-feed
   - jekyll-remote-theme
 
