@@ -22,13 +22,21 @@
 title: Mateo Pesa
 email: msp256@cornell.edu
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  |-
+  Welcome to my Portfolio
+
+  I'm a junior at Cornell University, where I'm studying Statistics with a focus on Computational Statistics and Data Management. I'm excited to embark on a career in data science and analytics.
+
+  **My Mission**
+
+  As I navigate through my studies, I'm on a mission to gain professional experience in the field of data science and analytics.
+  **Exploring Data Science**
+
+  This portfolio is a reflection of my journey in the world of data science. Here, you'll find a collection of projects and endeavors that showcase my skills and demonstrate my commitment to making data-driven solutions accessible and actionable. I've embraced various tools and methodologies to analyze, visualize, and interpret data, and I'm eager to apply these skills in real-world scenarios.
+
+---
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: MateoPesa
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
